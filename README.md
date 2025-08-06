@@ -16,6 +16,7 @@ To create an interactive dashboard for visualizing sales performance by category
 - Category-level breakdown
 
 ## Files
-- `superstore_dashboard.xlsx`: Main dashboard file
+- `Sales dashboard.xlsx`: Main dashboard file
+- Screenshot: Dashboard of analysis
 
 
